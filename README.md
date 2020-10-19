@@ -21,11 +21,11 @@ This project was put together using create-react-app (CRA). You will not need to
 - [ ]  Download project dependencies by running `npm install`
 - [ ]  Start up the app using `npm start`
 - [ ]  Create a new branch: git checkout -b `<firstName-lastName>`. Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
-- [ ]  Push commits: git push origin `<firstName-lastName>`.
+- [check ]  Push commits: git push origin `<firstName-lastName>`.
 
 ### Task 2a: MVP
 
-- [ ]  This app can be broken down to two main sections that you'll need to implement for this project: the Search Bar and the Posts.
+- [check ]  This app can be broken down to two main sections that you'll need to implement for this project: the Search Bar and the Posts.
 - [ ]  To complete this project there will be a single instance of the Search Bar being rendered at the top of the page, as well as a Posts component that renders an individual Post for every object inside the `dummy-data.js` array.
 - [ ]  Use what you learned yesterday to set up state to keep track of the posts.
 - [ ]  You will implement a callback to increase the "likes count" on posts, and hand it through props several levels down into a nested component.
